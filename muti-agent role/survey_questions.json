@@ -1,0 +1,653 @@
+[
+  {
+    "id": "CSE1",
+    "text": "我相信自己有能力创造性地解决校园食堂服务改良过程中遇到的问题。",
+    "label": "",
+    "scale": "likert5",
+    "section": "创造性自我效能（3题）"
+  },
+  {
+    "id": "CSE2",
+    "text": "我认为自己能够在已有想法的基础上，进一步发展和完善创新方案。",
+    "label": "",
+    "scale": "likert5",
+    "section": "创造性自我效能（3题）"
+  },
+  {
+    "id": "CSE3",
+    "text": "我相信自己能够针对校园食堂服务问题提出新颖的解决思路。",
+    "label": "",
+    "scale": "likert5",
+    "section": "创造性自我效能（3题）"
+  },
+  {
+    "id": "PS1",
+    "text": "当我在与AI专家的交流中提出错误想法时，我会担心受到负面评价。",
+    "label": "反向",
+    "scale": "likert7",
+    "section": "心理安全感（7题）"
+  },
+  {
+    "id": "PS2",
+    "text": "我能够放心地向AI专家提出自己在任务中遇到的困难或疑问。",
+    "label": "正向",
+    "scale": "likert7",
+    "section": "心理安全感（7题）"
+  },
+  {
+    "id": "PS3",
+    "text": "当我的观点与AI专家的建议不一致时，我会担心自己的观点被否定。",
+    "label": "反向",
+    "scale": "likert7",
+    "section": "心理安全感（7题）"
+  },
+  {
+    "id": "PS4",
+    "text": "即使一个创新想法尚不成熟，我也愿意在与AI专家交流时大胆提出。",
+    "label": "正向",
+    "scale": "likert7",
+    "section": "心理安全感（7题）"
+  },
+  {
+    "id": "PS5",
+    "text": "当我不理解任务内容时，我觉得很难主动向AI专家寻求帮助。",
+    "label": "反向",
+    "scale": "likert7",
+    "section": "心理安全感（7题）"
+  },
+  {
+    "id": "PS6",
+    "text": "在与AI专家互动时，我不必担心自己的努力或想法被刻意贬低。",
+    "label": "正向",
+    "scale": "likert7",
+    "section": "心理安全感（7题）"
+  },
+  {
+    "id": "PS7",
+    "text": "我感觉自己提出的独特想法和观点能够在与AI的交流中得到认真对待。",
+    "label": "正向",
+    "scale": "likert7",
+    "section": "心理安全感（7题）"
+  },
+  {
+    "id": "TLX1",
+    "text": "在本次任务中，你需要投入多少思考、分析、判断和记忆等心理活动？",
+    "label": "",
+    "scale": "tlx100",
+    "section": "NASA-TLX 主观工作负荷（6题）"
+  },
+  {
+    "id": "TLX2",
+    "text": "完成本次任务需要你投入多少身体活动或体力？",
+    "label": "",
+    "scale": "tlx100",
+    "section": "NASA-TLX 主观工作负荷（6题）"
+  },
+  {
+    "id": "TLX3",
+    "text": "本次任务让你感受到多大的时间压力？",
+    "label": "",
+    "scale": "tlx100",
+    "section": "NASA-TLX 主观工作负荷（6题）"
+  },
+  {
+    "id": "TLX4",
+    "text": "你认为自己完成本次任务目标的表现如何？",
+    "label": "",
+    "scale": "tlx100",
+    "section": "NASA-TLX 主观工作负荷（6题）"
+  },
+  {
+    "id": "TLX5",
+    "text": "为达到当前完成水平，你需要投入多少努力？",
+    "label": "",
+    "scale": "tlx100",
+    "section": "NASA-TLX 主观工作负荷（6题）"
+  },
+  {
+    "id": "TLX6",
+    "text": "完成本次任务时，你感到多大程度的紧张、烦躁、挫折或不安？",
+    "label": "",
+    "scale": "tlx100",
+    "section": "NASA-TLX 主观工作负荷（6题）"
+  },
+  {
+    "id": "CT1",
+    "text": "在完成校园食堂服务创新任务时，我会主动思考我所接触到的信息或建议是否具有说服力，而不是直接接受。",
+    "label": "",
+    "scale": "likert7",
+    "section": "Critical Thinking 批判性思维（5题）"
+  },
+  {
+    "id": "CT2",
+    "text": "当任务材料或AI专家提出某种观点或结论时，我会判断其是否具有充分的依据。",
+    "label": "",
+    "scale": "likert7",
+    "section": "Critical Thinking 批判性思维（5题）"
+  },
+  {
+    "id": "CT3",
+    "text": "我会将任务资料和已有建议作为思考的起点，并在此基础上形成自己的创新想法。",
+    "label": "",
+    "scale": "likert7",
+    "section": "Critical Thinking 批判性思维（5题）"
+  },
+  {
+    "id": "CT4",
+    "text": "在完成任务时，我会主动探索和发展自己的想法，而不只是采用已有的思路。",
+    "label": "",
+    "scale": "likert7",
+    "section": "Critical Thinking 批判性思维（5题）"
+  },
+  {
+    "id": "CT5",
+    "text": "当AI专家提出关于食堂服务问题的判断或结论时，我会进一步思考是否存在其他可能的解释或解决方式。",
+    "label": "",
+    "scale": "likert7",
+    "section": "Critical Thinking 批判性思维（5题）"
+  },
+  {
+    "id": "RU1",
+    "text": "我会根据自己的食堂服务创新任务需求，主动设计向AI专家提出的问题或指令，以获得所需的帮助。",
+    "label": "",
+    "scale": "frequency5",
+    "section": "AI依赖：Reflective Use 反思性使用（4题）"
+  },
+  {
+    "id": "RU2",
+    "text": "在AI专家给出回答后，我会批判性地阅读和思考其内容。",
+    "label": "",
+    "scale": "frequency5",
+    "section": "AI依赖：Reflective Use 反思性使用（4题）"
+  },
+  {
+    "id": "RU3",
+    "text": "我会根据AI专家的回答调整自己提出的问题或指令，以获得更符合任务需求的建议。",
+    "label": "",
+    "scale": "frequency5",
+    "section": "AI依赖：Reflective Use 反思性使用（4题）"
+  },
+  {
+    "id": "RU4",
+    "text": "我会请求AI专家帮助完善自己已经提出的食堂服务创新想法或初步方案。",
+    "label": "",
+    "scale": "frequency5",
+    "section": "AI依赖：Reflective Use 反思性使用（4题）"
+  },
+  {
+    "id": "CU1",
+    "text": "在与AI专家交流的过程中，我能够发现其回答或建议中存在的错误。",
+    "label": "",
+    "scale": "frequency5",
+    "section": "AI依赖：Cautious Use 谨慎使用（4题）"
+  },
+  {
+    "id": "CU2",
+    "text": "我会意识到AI专家提供的分析或创新建议并不总是完善的。",
+    "label": "",
+    "scale": "frequency5",
+    "section": "AI依赖：Cautious Use 谨慎使用（4题）"
+  },
+  {
+    "id": "CU3",
+    "text": "当AI专家提供的建议不适合当前食堂服务创新任务时，我会选择不采用这些建议。",
+    "label": "",
+    "scale": "frequency5",
+    "section": "AI依赖：Cautious Use 谨慎使用（4题）"
+  },
+  {
+    "id": "CU4",
+    "text": "在完成食堂服务创新任务的某些部分时，我能够不依赖AI专家，或仅在少量帮助下独立完成。",
+    "label": "",
+    "scale": "frequency5",
+    "section": "AI依赖：Cautious Use 谨慎使用（4题）"
+  },
+  {
+    "id": "TU1",
+    "text": "我会直接将任务的要求或问题描述发送给AI专家，以寻求帮助。",
+    "label": "",
+    "scale": "frequency5",
+    "section": "AI依赖：Thoughtless Use 无反思使用（4题）"
+  },
+  {
+    "id": "TU2",
+    "text": "我会直接复制AI专家提供的内容，并将其作为自己创新方案的一部分。",
+    "label": "",
+    "scale": "frequency5",
+    "section": "AI依赖：Thoughtless Use 无反思使用（4题）"
+  },
+  {
+    "id": "TU3",
+    "text": "在完成任务的过程中，我将大部分时间用于与AI专家进行互动。",
+    "label": "",
+    "scale": "frequency5",
+    "section": "AI依赖：Thoughtless Use 无反思使用（4题）"
+  },
+  {
+    "id": "TU4",
+    "text": "我会在没有进行较大修改的情况下，直接采用AI专家提供的内容或建议。",
+    "label": "",
+    "scale": "frequency5",
+    "section": "AI依赖：Thoughtless Use 无反思使用（4题）"
+  },
+  {
+    "id": "PL1",
+    "text": "在完成任务时，我会合理安排自己的时间，以确保能够完成任务。",
+    "label": "",
+    "scale": "likert5",
+    "section": "元认知调节：Planning 规划（7题）"
+  },
+  {
+    "id": "PL2",
+    "text": "在开始任务之前，我会思考自己需要了解哪些知识或信息。",
+    "label": "",
+    "scale": "likert5",
+    "section": "元认知调节：Planning 规划（7题）"
+  },
+  {
+    "id": "PL3",
+    "text": "在开始分析或设计之前，我会为当前任务设定具体的目标。",
+    "label": "",
+    "scale": "likert5",
+    "section": "元认知调节：Planning 规划（7题）"
+  },
+  {
+    "id": "PL4",
+    "text": "在开始任务之前，我会主动思考与当前任务有关的问题。",
+    "label": "",
+    "scale": "likert5",
+    "section": "元认知调节：Planning 规划（7题）"
+  },
+  {
+    "id": "PL5",
+    "text": "完成任务时，我会考虑多种解决方法，并选择更合适的方式。",
+    "label": "",
+    "scale": "likert5",
+    "section": "元认知调节：Planning 规划（7题）"
+  },
+  {
+    "id": "PL6",
+    "text": "在开始任务之前，我会仔细阅读并理解任务要求。",
+    "label": "",
+    "scale": "likert5",
+    "section": "元认知调节：Planning 规划（7题）"
+  },
+  {
+    "id": "PL7",
+    "text": "我会合理组织自己的学习与思考时间，以更好地实现创新目标。",
+    "label": "",
+    "scale": "likert5",
+    "section": "元认知调节：Planning 规划（7题）"
+  },
+  {
+    "id": "CM1",
+    "text": "在完成任务的过程中，我会定期检查自己是否正在实现预定目标。",
+    "label": "",
+    "scale": "likert5",
+    "section": "元认知调节：Comprehension Monitoring 理解监控（7题）"
+  },
+  {
+    "id": "CM2",
+    "text": "在确定某种创新思路之前，我会考虑其他可能的解决方法。",
+    "label": "",
+    "scale": "likert5",
+    "section": "元认知调节：Comprehension Monitoring 理解监控（7题）"
+  },
+  {
+    "id": "CM3",
+    "text": "在分析问题时，我会主动检查自己是否已经考虑了不同的可能性。",
+    "label": "",
+    "scale": "likert5",
+    "section": "元认知调节：Comprehension Monitoring 理解监控（7题）"
+  },
+  {
+    "id": "CM4",
+    "text": "在完成任务的过程中，我会定期回顾已有分析，以理解不同问题之间的联系。",
+    "label": "",
+    "scale": "likert5",
+    "section": "元认知调节：Comprehension Monitoring 理解监控（7题）"
+  },
+  {
+    "id": "CM5",
+    "text": "在使用某种问题分析或创新方法时，我会判断这种方法是否有效。",
+    "label": "",
+    "scale": "likert5",
+    "section": "元认知调节：Comprehension Monitoring 理解监控（7题）"
+  },
+  {
+    "id": "CM6",
+    "text": "在分析或设计过程中，我会有意识地停下来，检查自己是否真正理解当前的问题。",
+    "label": "",
+    "scale": "likert5",
+    "section": "元认知调节：Comprehension Monitoring 理解监控（7题）"
+  },
+  {
+    "id": "CM7",
+    "text": "在完成任务的过程中，我会不断检查自己当前的思考和任务完成情况。",
+    "label": "",
+    "scale": "likert5",
+    "section": "元认知调节：Comprehension Monitoring 理解监控（7题）"
+  },
+  {
+    "id": "EV1",
+    "text": "完成任务后，我会判断自己是否达到了预期的任务目标。",
+    "label": "",
+    "scale": "likert5",
+    "section": "元认知调节：Evaluation 评价（6题）"
+  },
+  {
+    "id": "EV2",
+    "text": "完成任务后，我会思考是否存在更简单或更有效的完成方法。",
+    "label": "",
+    "scale": "likert5",
+    "section": "元认知调节：Evaluation 评价（6题）"
+  },
+  {
+    "id": "EV3",
+    "text": "在完成任务后，我会总结自己学到了哪些内容。",
+    "label": "",
+    "scale": "likert5",
+    "section": "元认知调节：Evaluation 评价（6题）"
+  },
+  {
+    "id": "EV4",
+    "text": "完成任务后，我会评价自己在多大程度上实现了预先设定的目标。",
+    "label": "",
+    "scale": "likert5",
+    "section": "元认知调节：Evaluation 评价（6题）"
+  },
+  {
+    "id": "EV5",
+    "text": "在确定某种解决方案后，我会重新思考是否遗漏了其他可能的方案。",
+    "label": "",
+    "scale": "likert5",
+    "section": "元认知调节：Evaluation 评价（6题）"
+  },
+  {
+    "id": "EV6",
+    "text": "完成任务后，我会反思自己是否已经进行了足够深入的分析和思考。",
+    "label": "",
+    "scale": "likert5",
+    "section": "元认知调节：Evaluation 评价（6题）"
+  },
+  {
+    "id": "W1-A1",
+    "text": "我能够清楚描述校园食堂高峰期现有的主要服务流程。",
+    "label": "服务流程理解",
+    "scale": "likert5",
+    "section": "第一周：问题分析与定义体验（6题）"
+  },
+  {
+    "id": "W1-A2",
+    "text": "我能够从学生、食堂工作人员等不同群体的角度分析服务中存在的问题。",
+    "label": "多视角需求分析",
+    "scale": "likert5",
+    "section": "第一周：问题分析与定义体验（6题）"
+  },
+  {
+    "id": "W1-A3",
+    "text": "我能够区分食堂高峰期服务问题的表面表现与可能的深层原因。",
+    "label": "问题诊断",
+    "scale": "likert5",
+    "section": "第一周：问题分析与定义体验（6题）"
+  },
+  {
+    "id": "W1-A4",
+    "text": "我能够识别多个潜在痛点，而不是仅关注排队时间过长这一问题。",
+    "label": "问题发现的广度",
+    "scale": "likert5",
+    "section": "第一周：问题分析与定义体验（6题）"
+  },
+  {
+    "id": "W1-A5",
+    "text": "我能够依据自己的分析，确定最值得优先解决的核心服务问题。",
+    "label": "问题筛选",
+    "scale": "likert5",
+    "section": "第一周：问题分析与定义体验（6题）"
+  },
+  {
+    "id": "W1-A6",
+    "text": "我能够将所识别的问题转化为明确、具体且具有创新空间的设计目标。",
+    "label": "问题定义",
+    "scale": "likert5",
+    "section": "第一周：问题分析与定义体验（6题）"
+  },
+  {
+    "id": "W1-B1",
+    "text": "AI专家帮助我理解了服务设计任务中需要关注的主要问题。",
+    "label": "任务理解支持",
+    "scale": "likert5",
+    "section": "第一周：AI支持效果（3题）"
+  },
+  {
+    "id": "W1-B2",
+    "text": "与AI专家讨论后，我能够从更多角度理解校园食堂高峰期存在的问题。",
+    "label": "视角扩展",
+    "scale": "likert5",
+    "section": "第一周：AI支持效果（3题）"
+  },
+  {
+    "id": "W1-B3",
+    "text": "AI专家的帮助使我能够更加清晰地确定任务创新目标。",
+    "label": "问题定义支持",
+    "scale": "likert5",
+    "section": "第一周：AI支持效果（3题）"
+  },
+  {
+    "id": "W2-A1",
+    "text": "我能够针对校园食堂服务问题提出多个不同的创新构思。",
+    "label": "创意流畅性自评",
+    "scale": "likert5",
+    "section": "第二周：创意生成与方案发展（6题）"
+  },
+  {
+    "id": "W2-A2",
+    "text": "我能够从不同角度探索解决问题的方法，而不是局限于最先想到的方案。",
+    "label": "创意灵活性自评",
+    "scale": "likert5",
+    "section": "第二周：创意生成与方案发展（6题）"
+  },
+  {
+    "id": "W2-A3",
+    "text": "我尝试将不同创新想法进行组合，以形成更加完善的服务方案。",
+    "label": "创意整合",
+    "scale": "likert5",
+    "section": "第二周：创意生成与方案发展（6题）"
+  },
+  {
+    "id": "W2-A4",
+    "text": "当某个创新思路存在不足时，我能够主动寻找其他可能的解决方向。",
+    "label": "思维调整",
+    "scale": "likert5",
+    "section": "第二周：创意生成与方案发展（6题）"
+  },
+  {
+    "id": "W2-A5",
+    "text": "我能够根据自己制定或理解的标准，比较不同候选方案的优缺点。",
+    "label": "创意筛选",
+    "scale": "likert5",
+    "section": "第二周：创意生成与方案发展（6题）"
+  },
+  {
+    "id": "W2-A6",
+    "text": "在本周的创新构思过程中，我能够自主决定主要创新方向，而不是完全依赖AI替我选择。",
+    "label": "决策自主性",
+    "scale": "likert5",
+    "section": "第二周：创意生成与方案发展（6题）"
+  },
+  {
+    "id": "W2-B1",
+    "text": "AI专家的互动方式促使我进一步解释自己的创新想法。",
+    "label": "思考外显",
+    "scale": "likert5",
+    "section": "第二周：AI支持效果（4题）"
+  },
+  {
+    "id": "W2-B2",
+    "text": "与AI专家交流使我重新检查了部分原有假设或解决思路。",
+    "label": "元认知启发",
+    "scale": "likert5",
+    "section": "第二周：AI支持效果（4题）"
+  },
+  {
+    "id": "W2-B3",
+    "text": "AI专家帮助我发现了自己在创意生成过程中忽略的可能性。",
+    "label": "创意探索支持",
+    "scale": "likert5",
+    "section": "第二周：AI支持效果（4题）"
+  },
+  {
+    "id": "W2-B4",
+    "text": "与AI专家互动后，我更清楚自己为什么选择某个方案继续完善。",
+    "label": "自主决策支持",
+    "scale": "likert5",
+    "section": "第二周：AI支持效果（4题）"
+  },
+  {
+    "id": "W3-A1",
+    "text": "我能够独立识别当前食堂服务创新方案存在的主要不足。",
+    "label": "自主诊断",
+    "scale": "likert5",
+    "section": "第三周：方案评价、修订与可行性（6题）"
+  },
+  {
+    "id": "W3-A2",
+    "text": "我能够从用户需求、流程效率和服务体验等方面评价方案的合理性。",
+    "label": "多维度方案评价",
+    "scale": "likert5",
+    "section": "第三周：方案评价、修订与可行性（6题）"
+  },
+  {
+    "id": "W3-A3",
+    "text": "我能够考虑人员、资源、空间和成本等条件，判断方案是否具有实施可行性。",
+    "label": "可行性分析",
+    "scale": "likert5",
+    "section": "第三周：方案评价、修订与可行性（6题）"
+  },
+  {
+    "id": "W3-A4",
+    "text": "我能够识别方案实施过程中可能出现的新问题或潜在风险。",
+    "label": "风险识别",
+    "scale": "likert5",
+    "section": "第三周：方案评价、修订与可行性（6题）"
+  },
+  {
+    "id": "W3-A5",
+    "text": "我能够根据评价结果，自主提出具体的方案改进方式。",
+    "label": "自主修订",
+    "scale": "likert5",
+    "section": "第三周：方案评价、修订与可行性（6题）"
+  },
+  {
+    "id": "W3-A6",
+    "text": "我能够解释最终方案相比初始方案发生了哪些实质性改进，以及改进的原因。",
+    "label": "修订反思",
+    "scale": "likert5",
+    "section": "第三周：方案评价、修订与可行性（6题）"
+  },
+  {
+    "id": "W3-B1",
+    "text": "AI专家的反馈帮助我发现了原有方案中未充分考虑的问题。",
+    "label": "缺陷识别支持",
+    "scale": "likert5",
+    "section": "第三周：AI支持效果（4题）"
+  },
+  {
+    "id": "W3-B2",
+    "text": "AI专家能够根据具体的服务设计要求或评价标准提供反馈。",
+    "label": "评价依据明确性",
+    "scale": "likert5",
+    "section": "第三周：AI支持效果（4题）"
+  },
+  {
+    "id": "W3-B3",
+    "text": "与AI专家交流后，我能够更清楚地判断哪些方面需要优先改进。",
+    "label": "修订优先级",
+    "scale": "likert5",
+    "section": "第三周：AI支持效果（4题）"
+  },
+  {
+    "id": "W3-B4",
+    "text": "我能够根据AI专家的反馈自主修改完善方案。",
+    "label": "反馈与自主修订",
+    "scale": "likert5",
+    "section": "第三周：AI支持效果（4题）"
+  },
+  {
+    "id": "IG1",
+    "text": "AI专家会向我解释完成任务所需的知识和方法。",
+    "label": "",
+    "scale": "likert5",
+    "section": "AI教学行为感知（9题）"
+  },
+  {
+    "id": "IG2",
+    "text": "AI专家会将复杂问题分解成具体步骤，帮助我逐步完成任务。",
+    "label": "",
+    "scale": "likert5",
+    "section": "AI教学行为感知（9题）"
+  },
+  {
+    "id": "IG3",
+    "text": "AI专家会通过示例或具体说明，帮助我理解应该如何开展分析或设计。",
+    "label": "",
+    "scale": "likert5",
+    "section": "AI教学行为感知（9题）"
+  },
+  {
+    "id": "MC1",
+    "text": "AI专家经常要求我解释自己的想法及其判断依据。",
+    "label": "",
+    "scale": "likert5",
+    "section": "AI教学行为感知（9题）"
+  },
+  {
+    "id": "MC2",
+    "text": "AI专家通过提问，引导我检查自己的思考过程和解决方法。",
+    "label": "",
+    "scale": "likert5",
+    "section": "AI教学行为感知（9题）"
+  },
+  {
+    "id": "MC3",
+    "text": "AI专家鼓励我自主比较不同方案，并作出选择。",
+    "label": "",
+    "scale": "likert5",
+    "section": "AI教学行为感知（9题）"
+  },
+  {
+    "id": "FE1",
+    "text": "AI专家会根据我已经完成的内容，指出具体的优点和不足。",
+    "label": "",
+    "scale": "likert5",
+    "section": "AI教学行为感知（9题）"
+  },
+  {
+    "id": "FE2",
+    "text": "AI专家会依据明确的标准或理由，对我的方案提出评价意见。",
+    "label": "",
+    "scale": "likert5",
+    "section": "AI教学行为感知（9题）"
+  },
+  {
+    "id": "FE3",
+    "text": "AI专家会指出需要改进的方面，并让我自行决定具体的修改方式。",
+    "label": "",
+    "scale": "likert5",
+    "section": "AI教学行为感知（9题）"
+  },
+  {
+    "id": "ROLE",
+    "text": "回顾本周与AI服务设计专家的交流，你认为它主要以哪种方式帮助你完成创新任务？",
+    "label": "",
+    "scale": "single_choice",
+    "section": "AI角色识别",
+    "choices": {
+      "A": "方法指导：主要解释知识、提供示例或分步骤说明如何开展任务",
+      "B": "思考引导：主要通过提问，促使我检查思路、解释理由并自主作出判断",
+      "C": "方案评价：主要评价我已经完成的内容、指出不足，并引导我自主修订",
+      "D": "多种方式并重：没有哪一种方式明显占主导",
+      "E": "无法判断：本周的互动不足以判断其主要支持方式"
+    }
+  }
+]

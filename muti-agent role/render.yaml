@@ -1,0 +1,43 @@
+services:
+  - type: web
+    name: canteen-cps-study
+    runtime: python
+    region: singapore
+    plan: 1c-2g
+    numInstances: 1
+    buildCommand: python3 -m compileall -q server.py
+    startCommand: python3 server.py
+    healthCheckPath: /
+    autoDeployTrigger: off
+    maxShutdownDelaySeconds: 300
+    envVars:
+      - key: DEPLOYMENT_MODE
+        value: production
+      - key: HOST
+        value: 0.0.0.0
+      - key: DATA_DIR
+        value: /var/data
+      - key: COOKIE_SECURE
+        value: "1"
+      - key: LLM_BASE_URL
+        value: https://api.deepseek.com/v1
+      - key: LLM_MODEL
+        value: deepseek-flash
+      - key: LLM_THINKING
+        value: disabled
+      - key: LLM_TEMPERATURE
+        value: "0.4"
+      - key: LLM_MAX_TOKENS
+        value: "700"
+      - key: CHAT_RATE_10_MIN
+        value: "20"
+      - key: CHAT_RATE_DAY
+        value: "200"
+      - key: ADMIN_PASSWORD
+        sync: false
+      - key: LLM_API_KEY
+        sync: false
+    disk:
+      name: study-data
+      mountPath: /var/data
+      sizeGB: 10
